@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JESSEL Mae C. Macion- Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: linear-gradient(to right, #ffdde1, #ee9ca7), 
+                        url('https://www.transparenttextures.com/patterns/daisy.png');
+            background-blend-mode: overlay;
+            color: black;
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .profile-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(5px);
+            border-radius: 15px;
+            padding: 30px;
+            max-width: 400px;
+            margin: auto;
+            box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.3);
+        }
+        .profile-card img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            border: 3px solid white;
+            margin-bottom: 15px;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+        .info {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+        }
+        ul li {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+        }
+        ul li strong {
+            color: #ff4081;
+        }
+        a {
+            color: #ff4081;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body> 
+    <header>
+        <img src="Meme.jpg" alt="My profile picture "Width="150" hight="200">         
+      <h1>Jessel Mae C. Macion</h1>
+        <p class="info"><strong>Sugod Tukuran Zamboanga Del Sur</strong>
+        <p>09852634088</p>
+        
+    </header>
+    
+         <h2>Career Objective </h1>
+       <p> To obtain a position that will enable me to use my skills, 
+       educational background, and ability to work well with people.</p>
+       
+       
+       <Section>
+           
+         <h2>Personal Background </h2>
+        <ul>
+     
+            <li>Birth Date: January 3,2006</li>
+            <li>Religion: Roman Catholic</li>
+            <li>Age: 19</li>
+            <li>Mother Name: Elsa C. Macion</li>
+            <li>Father Name: Alfredo B. Macion</li>
+            <li>Nationality: Filipino</li>
+            <li>Weight : 48kg</li> 
+            
+            </ul>
+        </Section>
+        
+        <Section>
+         <h2>Education Background </h2>
+         <ul>
+        
+            <li>Primary School:Sugod Elementary School</p>
+            <li>Secondary School: Potenciano Solon Bandolon Memorial National High School 
+            <li>Senior High:Tukuran Technical Vocational High School</p>
+            <li>College: ZDSPGC </li>
+       
+         </ul>
+      </Section>
+      
+      <footer>
+            <h1>Skills</h1>
+        <ul>
+            <li>Teamwork</li>
+            <li>Communication</li>
+            
+       
+        </ul>
+
+        <h2>Hobbies</h1>
+        <ul>
+            <li>Listening to Music</li>
+            <li>Reading Wattpad</li>
+          <li>Eating</li>
+          <li>sleeping</li>
+          <li>playing games</li>
+            
+       
+        </ul>
+
+           
+        
+       
+        
+         
+    <p class="footer">&copy; 2025 Jessel Mae C. Macion| <a href="about.html">About Me</a></p>
+
+</body>
+</html>
+
+
+---
+💋
